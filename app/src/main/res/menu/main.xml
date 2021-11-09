@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/mainWindowFragment"
+        android:title="Bosh oyna"
+        android:icon="@drawable/mainwindow_icon"/>
+    <item
+        android:id="@+id/allCurrenciesFragment"
+        android:title="Barcha valyutalar"
+        android:icon="@drawable/allcurrency_icon"/>
+    <item
+    android:id="@+id/calculatorFragment"
+    android:title="Kalkulyator"
+    android:icon="@drawable/calculator_icon"/>
+</menu>
